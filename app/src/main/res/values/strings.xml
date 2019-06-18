@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Contador</string>
+    <string name="btn_somar">ADD</string>
+    <string name="tv_contador">0</string>
+</resources>
